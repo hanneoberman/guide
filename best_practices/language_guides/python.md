@@ -72,8 +72,7 @@ A possible downside of Anaconda is the fact that this is offered by a commercial
 
 ## Editors and IDEs
 
-* Every major text editor supports Python, either natively or through plugins. At the Netherlands eScience Center, often used editors are [atom](https://atom.io/), [Sublime Text](https://www.sublimetext.com/) and [vim](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/).
-* [PyDev](http://www.pydev.org/) is an open source IDE. The source code is available in the [PyDev GitHub repository](https://github.com/fabioz/Pydev). It has debugging, unit testing, and reporting(code analysis, code coverage) support.
+* Every major text editor supports Python, either natively or through plugins. At the Netherlands eScience Center, often used editors are [vscode](https://code.visualstudio.com/) and [vim](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/).
 * For those seeking an IDE, JetBrains [PyCharm](https://www.jetbrains.com/pycharm/) is the Python IDE of choice. [PyCharm Community Edition](https://www.jetbrains.com/pycharm)  is open source. The source code is available in the [python folder of the IntelliJ repository](https://github.com/JetBrains/intellij-community/tree/master/python). It has visual debugger, unit testing and code coverage support, profiler. JetBrains provides a [list of all tools in PyCharm](https://www.jetbrains.com/pycharm/features/tools.html).
 
 ## Coding style conventions
